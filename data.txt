@@ -1,0 +1,4 @@
+password123 = 482c811da5d5b4bc6d497ffa98491e38
+abcd1234 = e19d5cd5af0378da05f63f891c7467af
+
+//rainbow table
