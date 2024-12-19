@@ -16,3 +16,6 @@ echo "SHA512: $sha512\n";
 //haval192,5
 $haval = hash('haval192,5', $password); //160 bit
 echo "HAVAL: $haval\n";
+
+$algorithms = hash_algos();
+print_r($algorithms);
